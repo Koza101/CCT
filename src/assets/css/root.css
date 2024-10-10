@@ -6,7 +6,7 @@
 @media only screen and (min-width: 0rem) {
   :root {
     --primary: #cf102d;
-    --primaryLight: #ffd675;
+    --primaryLight: #cf102d;
     --secondary: #001f3f;
     --secondaryLight: #001f3f;
     --headerColor: #1a1a1a;

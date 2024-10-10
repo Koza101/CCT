@@ -1,11 +1,11 @@
 module.exports = {
     "name": "Center for Cybersecurity and Technology",
-    "email": "cct@plattsburgh.edu",
-    "phoneForTel": "555-555-5555",
-    "phoneFormatted": "(555) 555-5555",
+    "email": "balanc@plattsburgh.edu",
+    "phoneForTel": "518-564-1423",
+    "phoneFormatted": "(518) 564-1423",
     "address": {
-        "lineOne": "Au Sable Hall",
-        "lineTwo": "Second Address Line",
+        "lineOne": "211 Au Sable Hall",
+        "lineTwo": "101 Broad Street",
         "city": "Plattsbugrh",
         "state": "NY",
         "zip": "12901",
