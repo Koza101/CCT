@@ -1,6 +1,6 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
+    "name": "Center for Cybersecurity and Technology",
+    "cct@plattsbugrh.edu",
     "phoneForTel": "555-779-4407",
     "phoneFormatted": "(555) 779-4407",
     "address": {
