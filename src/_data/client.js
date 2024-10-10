@@ -1,14 +1,14 @@
 module.exports = {
     "name": "Center for Cybersecurity and Technology",
-    "cct@plattsbugrh.edu",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "email": "cct@plattsburgh.edu",
+    "phoneForTel": "555-555-5555",
+    "phoneFormatted": "(555) 555-5555",
     "address": {
-        "lineOne": "First Address Line",
+        "lineOne": "Au Sable Hall",
         "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
+        "city": "Plattsbugrh",
+        "state": "NY",
+        "zip": "12901",
         "country": "US",
         "mapLink": "https://maps.app.goo.gl/TEdS5KoLC9ZcULuQ6"
     },
